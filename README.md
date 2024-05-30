@@ -41,7 +41,7 @@ cd Train-Reservation-Management-System
 
 ## Repository Structure
 
-- **app.py**: Flask application script containing routes and prediction logic.
+- **complete project.py**:  Complete code for running the project.
 - **README.md**: Project documentation.
 
 
